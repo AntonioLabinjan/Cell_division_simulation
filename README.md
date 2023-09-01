@@ -21,7 +21,7 @@ Here's an example of running the simulation:
 
 bash
 Copy code
-python cell_division_simulation.py
+python Dioba_stanica.py
 
 ## Note
 This simulation is a simplified model for educational purposes and does not capture the complexity of real cell division processes. It is intended to demonstrate the concept of cell division and how the number of cells can change over time.
